@@ -10,7 +10,7 @@
     "fs": false
   },
   "dependencies": {
-    "@babel/plugin-proposal-class-properties": "^7.8.7",
+    "@babel/plugin-proposal-class-properties": "^7.18.6",
     "@babel/preset-react": "^7.8.7",
     "@fortawesome/fontawesome-free": "^5.12.1",
     "admin-lte": "^3.0",
